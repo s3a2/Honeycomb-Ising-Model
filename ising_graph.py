@@ -1,5 +1,4 @@
 """
-
 Glauber Dynamics Ising Model
 Graph Implementation
 
@@ -7,9 +6,7 @@ By:
 - Shaan Sidhwani
 - Blake Steadham
 
-PHY 329 - Final Project Implementation
 Last Modified 12/10/24 
-
 """
 
 
@@ -363,3 +360,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
