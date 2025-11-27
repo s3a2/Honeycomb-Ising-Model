@@ -6,3 +6,5 @@ ___
 GlauberDynamics.ipynb presents an animated simulation of spin dynamics in the Lenz-Ising model that uses a graph data structure-oriented implementation to enable
 unique spin topologies such as a 3-neighbor honeycomb lattice. The simulation visualizes spin domains, magnetization, and total lattice energy vs. time using the
 Glauber and Metropolis algorithms to run the simulation.
+
+This project was done in collaboration with Alex Huang, Phillip Meoni, and Blake Steadham.
